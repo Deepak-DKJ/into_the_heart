@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/INTO_THE_HEART/static/css/main.f855e6bc.css",
+    "main.js": "/INTO_THE_HEART/static/js/main.be592509.js",
+    "static/js/787.0f7dc5a1.chunk.js": "/INTO_THE_HEART/static/js/787.0f7dc5a1.chunk.js",
+    "index.html": "/INTO_THE_HEART/index.html",
+    "main.f855e6bc.css.map": "/INTO_THE_HEART/static/css/main.f855e6bc.css.map",
+    "main.be592509.js.map": "/INTO_THE_HEART/static/js/main.be592509.js.map",
+    "787.0f7dc5a1.chunk.js.map": "/INTO_THE_HEART/static/js/787.0f7dc5a1.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f855e6bc.css",
+    "static/js/main.be592509.js"
+  ]
+}
